@@ -1,0 +1,17 @@
+{
+  "embedding_models": [
+    "all-MiniLM-L6-v2",
+    "intfloat/e5-small-v2"
+  ],
+  "chunking": [
+    {
+      "size": 500,
+      "overlap": 100
+    },
+    {
+      "size": 300,
+      "overlap": 50
+    }
+  ],
+  "llm": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+}

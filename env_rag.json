@@ -1,0 +1,10 @@
+{
+  "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+  "platform": "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "torch": "2.8.0+cu126",
+  "cuda": false,
+  "device": "CPU",
+  "transformers": "4.56.1",
+  "sentence_transformers": "5.1.0",
+  "chromadb": "1.1.0"
+}
